@@ -1,2 +1,3 @@
 # Duke University
-# DataSciences MLOps Specialization
+
+## DataSciences MLOps Specialization
